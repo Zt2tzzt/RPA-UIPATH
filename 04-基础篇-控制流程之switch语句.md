@@ -38,7 +38,7 @@
 
 在序列中，加入一个 switch 切换，或者搜索关键词 ”switch“
 
-表达式设置为：变量 `“result”`，在右侧的属性栏，将 TypeArgument 改为 String
+表达式设置为：变量 `result`，在右侧的属性栏，将 TypeArgument 改为 String
 
 设置一个 Case `A`
 
@@ -57,3 +57,7 @@ Text 中设置为：`"良好！"`
 在该 case 的处理框中，放入消息框，或搜索关键词 “MessageBox”
 
 Text 中设置为：`"及格！"`
+
+---
+
+运行项目
