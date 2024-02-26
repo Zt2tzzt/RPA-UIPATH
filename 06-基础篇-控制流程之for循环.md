@@ -31,17 +31,17 @@ for 循环对集合的每个元素，执行一个或一系列活动。
 
 值设置为：`cps`
 
-项目设置为：`currentItem`，类型改为 Int32
+项目设置为：`item`，类型改为 Int32
 
 在 Body 中，加入一个 if 条件，或者搜索关键词 ”if“
 
-条件设置为：`currentItem Mod 2 = 1`；
+条件设置为：`item Mod 2 = 1`；
 
 在 then 中，放入日志消息，或搜索关键词 ”log“
 
 日志级别设为 info；
 
-消息设为：`currentItem.ToString + "是奇数`
+消息设为：`item.ToString + "是奇数`
 
 在 else 中，放入日志消息，或搜索关键词 ”log“
 
